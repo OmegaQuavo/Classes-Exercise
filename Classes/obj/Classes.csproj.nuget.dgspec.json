@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Classes-Exercise\\Classes\\Classes.csproj": {}
+    "C:\\Users\\cedin\\Desktop\\repos\\Classes-Exercise\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Classes-Exercise\\Classes\\Classes.csproj": {
+    "C:\\Users\\cedin\\Desktop\\repos\\Classes-Exercise\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Users\\cedin\\Desktop\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
+        "projectPath": "C:\\Users\\cedin\\Desktop\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\cedin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Classes-Exercise\\Classes\\obj\\",
+        "outputPath": "C:\\Users\\cedin\\Desktop\\repos\\Classes-Exercise\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cedin\\AppData\\Roaming\\NuGet\\NuGet.Config"
